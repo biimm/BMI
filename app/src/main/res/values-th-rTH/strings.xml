@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BMI</string>
+    <string name="start">เริ่มต้น</string>
+    <string name="app_name">BMI</string>
+    <string name="calculate">คำนวณ</string>
+    <string name="exit">จบการทำงาน</string>
+</resources>
