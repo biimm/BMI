@@ -19,9 +19,9 @@ public class Home_MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 Toast t1 = Toast.makeText( Home_MainActivity.this,"continute"  , Toast.LENGTH_SHORT);
-                Intent i = new Intent(Home_MainActivity.this , secondMainActivity.class);
+                Intent i1 = new Intent(Home_MainActivity.this , secondMainActivity.class);
                 t1.show();
-                startActivity(i);
+                startActivity(i1);
             }
         });
         exitbutton.setOnClickListener(new View.OnClickListener() {
